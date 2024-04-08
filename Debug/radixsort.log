@@ -1,0 +1,5 @@
+﻿  radixsort.cpp
+C:\Users\PC\Desktop\radixsort\radixsort.cpp(8,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\radixsort\radixsort.cpp(138,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\radixsort\radixsort.cpp(110): warning C4715: 'get_ind': not all control paths return a value
+  radixsort.vcxproj -> C:\Users\PC\Desktop\radixsort\Debug\radixsort.exe
